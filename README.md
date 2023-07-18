@@ -1,12 +1,7 @@
-# Reebok-Clone
+# Reebok-front-end-Clone
 This is a Clone of Reebok India Website
 
-### Deployment
-| Environment | Link |
-|-------------|------|
-| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Reebok-Clone/) |
-| Vercel Preview | [Vercel Preview](https://reebok-clone-rky5f1uch-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://reebok-clone-rky5f1uch-kumar-laxmi.vercel.app/)
+
 
 ### Technology Stack
 #### Languages:
