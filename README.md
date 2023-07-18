@@ -23,4 +23,4 @@ This is a Clone of Reebok India Website
 
 
 ### Screen-Shot of Clone:
-<img src="./img-reebok/ScreenShot.png" alt="REEBOK SCREEN SHOT">
+<img src="./img-reebok/screenshot.png" alt="REEBOK SCREEN SHOT">
